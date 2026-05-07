@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462712522519",
+    "project_id": "nicolasfirebase-59cff",
+    "storage_bucket": "nicolasfirebase-59cff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462712522519:android:88771a13ff035fc04c5952",
+        "android_client_info": {
+          "package_name": "com.nicolasparra.clickergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOyom6703JQJzuk6axKTPC5Ji_HDVr3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
