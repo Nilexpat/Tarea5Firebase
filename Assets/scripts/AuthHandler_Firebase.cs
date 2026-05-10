@@ -61,8 +61,9 @@ public class AuthHandler : MonoBehaviour
     private void InitializeFirebase()
     {
         firebaseAuth = FirebaseAuth.DefaultInstance;
-        firebaseDatabase = FirebaseDatabase.DefaultInstance;
-        
+        firebaseDatabase = FirebaseDatabase.GetInstance("https://nicolasfirebase-59cff-default-rtdb.firebaseio.com/");
+
+
         Debug.Log("[AuthHandler] Firebase inicializado");
     }
 
